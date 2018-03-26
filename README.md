@@ -1,4 +1,5 @@
 # React Readable
+A full service (CRUD) application, made with React and React/Redux. A Udacity ND project.
 
 ## Screenshots
 
