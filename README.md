@@ -8,8 +8,6 @@ A full service (CRUD) messageboard application, made with React and React/Redux.
 ![Screenshot](/screenshots/reactreadable_03.png)
 
 ## Setup Demo
-By @jPoechill
-
 To install and start Client App:
 
   1. Run `cd reactreadable`
