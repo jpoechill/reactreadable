@@ -1,5 +1,5 @@
 # React Readable
-A full service (CRUD) application, made with React and React/Redux. A Udacity ND project.
+A full service (CRUD) messageboard application, made with React and React/Redux. A Udacity ND project.
 
 ## Screenshots
 
@@ -8,7 +8,6 @@ A full service (CRUD) application, made with React and React/Redux. A Udacity ND
 ![Screenshot](/screenshots/reactreadable_03.png)
 
 ## Setup Demo
-A message board web app made with React and Redux.
 By @jPoechill
 
 To install and start Client App:
